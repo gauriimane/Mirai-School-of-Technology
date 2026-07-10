@@ -194,14 +194,6 @@ This project demonstrates:
 
 ---
 
-## 📸 Application Preview
-
-<img width="900" alt="Application Preview" src="demo/demo.png">
-
-> *(Replace this image with a screenshot of your application.)*
-
----
-
 ## 👩‍💻 Author
 
 **Gauri Mane**
